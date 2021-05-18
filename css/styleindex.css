@@ -115,7 +115,12 @@ border-radius: 5%;*/
 .container {
     padding: 58px;
     display: flex;
+    background-color: #fae7c7;
+    border-radius: 81px;
+    margin: 12px;
+    margin-top: 65px;
 }
+
 .head1 {
     font-size: 56px;
     font-family: cursive
@@ -137,4 +142,40 @@ border-radius: 5%;*/
 .list1 {
     font-size: 17px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container2 {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #f8f8c7;
+    padding: 50px;
+    border-radius: 74px;
+    margin: 9px;
+}
+.image3 img {
+    width: 368px;
+    border-radius: 18%;
+}
+.image3 {
+    padding: 26px;
+}
+.container3 {
+    display:flex;
+    background-color: #f0f0f6;
+    padding: 30px;
+    margin: 18px;
+    border-radius: 78px;
+}
+.image4 {
+    padding: 48px
+}
+.image img {
+    border-radius: 29%;
+}
+.btn2 {
+    padding: 7px;
+    border-radius: 16px;
+    color: #726565;
+    background: #fae7c7;
+    border: 3px solid;
+    cursor: pointer;
 }
