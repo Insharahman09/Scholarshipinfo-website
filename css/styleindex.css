@@ -5,6 +5,7 @@
 }
 .navbar {
 display: flex;
+c
 background-color: rgb(252, 216, 222);
 justify-content: center;
 align-items: center;
@@ -16,6 +17,7 @@ cursor: pointer;
 .logo {
 width: 20%;
 display: flex;
+
 }
 .logo img {
     width: 40%;
@@ -26,7 +28,7 @@ display: flex;
 .list{
     width: 50%;
     display: flex;
-     
+    
     align-items: center;
  
 }
@@ -80,6 +82,7 @@ border-radius: 5%;*/
     max-width: 50%;
     margin: auto;
     height: 93%;
+    
 }
 
  .mainsection{
@@ -91,6 +94,7 @@ border-radius: 5%;*/
     justify-content: center;
     flex-direction: column;
     align-items: flex-start;
+    
 }
    
 .image{
@@ -119,14 +123,12 @@ border-radius: 5%;*/
     border-radius: 81px;
     margin: 12px;
     margin-top: 65px;
+    
 }
 
 .head1 {
     font-size: 56px;
     font-family: cursive
-}
-.para1{
-
 }
 .image2{
     padding-top: 83px;
@@ -164,6 +166,7 @@ border-radius: 5%;*/
     padding: 30px;
     margin: 18px;
     border-radius: 78px;
+    
 }
 .image4 {
     padding: 48px

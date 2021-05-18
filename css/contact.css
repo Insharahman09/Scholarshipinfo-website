@@ -1,0 +1,50 @@
+.contactus {
+     margin-left: 447px;
+    
+}
+.background1 {
+    background: pink url(../img/s4.jpg);
+    background-size: cover;
+    height: 100vh; 
+}
+h2{
+    /*text-align: center;*/
+    font-size: 41px;
+    margin: 27px;
+    font-family: cursive;
+} 
+.name input {
+    margin-left: 30px;
+    margin-bottom: 26px;
+    width: 458px;
+    /* height: 24px; */
+    font-size: 16px;
+    border: 2px solid;
+    font-family: cursive;
+}
+.name textarea {
+    margin-left: 30px;
+    margin-bottom: 26px;
+    width: 458px;
+    /* height: 24px; */
+    font-size: 16px;
+    border: 2px solid;
+}
+.btn3 {
+    padding: 8px;
+    border-radius: 15px;
+    border: 2px solid;
+    width: 75px;
+    font-size: 15px;
+}
+.submit {
+    margin-left: 32px;
+}
+
+ 
+
+
+
+
+
+ 
