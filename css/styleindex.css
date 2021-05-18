@@ -112,3 +112,29 @@ border-radius: 5%;*/
     font-size: 45px;
     font-family: cursive;
 }
+.container {
+    padding: 58px;
+    display: flex;
+}
+.head1 {
+    font-size: 56px;
+    font-family: cursive
+}
+.para1{
+
+}
+.image2{
+    padding-top: 83px;
+}
+.image2 img{
+    border-radius: 71%;
+    border: 2px solid #4c58c9
+} 
+.body1 {
+    font-size: 17px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.list1 {
+    font-size: 17px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
