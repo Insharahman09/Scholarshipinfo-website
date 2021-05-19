@@ -1,11 +1,14 @@
 .background3 {
-    background: burlywood url(../img/s10.jpeg);
+    background: burlywood url(../img/s13.jpg);
     background-size: cover;
-    height: 100vh;
+    height: fit-content;
+ 
 }
-.col1{
+.row0{
     width: 200px;
-    font-size: ;
+    font-size: 21px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 h2 {
     
@@ -14,4 +17,15 @@ h2 {
     font-size: 44px;
     font-family: cursive;
 }
+.row { 
+    padding: 26px;
+    font-size: 17px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+  
+.AP {
+    font-size: 38px;
+    margin: 17px;
+    margin-bottom: 46px;
+    font-family: cursive;
 }
