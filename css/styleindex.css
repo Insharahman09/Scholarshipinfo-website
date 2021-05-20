@@ -182,3 +182,6 @@ border-radius: 5%;*/
     border: 3px solid;
     cursor: pointer;
 }
+.btn2 a {
+    text-decoration: none;
+}
