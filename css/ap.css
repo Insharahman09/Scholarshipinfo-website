@@ -32,3 +32,8 @@ h2 {
 .list2 {
     margin: 41px
 }
+.list1 {
+    background: wheat url(../img/s15.jpg);
+    background-size: cover;
+    height: fit-content;
+}

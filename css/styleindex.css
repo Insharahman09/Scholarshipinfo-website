@@ -185,3 +185,22 @@ border-radius: 5%;*/
 .btn2 a {
     text-decoration: none;
 }
+.impo {
+    margin: 21px;
+    padding: 10px;
+    background: #edfad8;
+    margin: 24px;
+    border-radius: 34px;
+}
+.impo p {
+    font-size: 39px;
+    font-family: cursive;
+}
+.impo a {
+font-family: cursive;
+}
+
+
+
+
+
