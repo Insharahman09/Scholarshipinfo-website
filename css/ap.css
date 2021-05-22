@@ -30,10 +30,27 @@ h2 {
     font-family: cursive;
 }
 .list2 {
-    margin: 41px
+    margin: 41px;
+    
+}
+.list2 a {
+    text-decoration: none;
 }
 .list1 {
-    background: wheat url(../img/s15.jpg);
+    background: rgb(229, 253, 230);
     background-size: cover;
-    height: fit-content;
+    height: max-content;
+}
+.class0 {
+    margin: 42px;
+    padding: 5px;
+}
+.list1 h3 {
+    font-size: 35px;
+}
+.list1 p {
+    font-size: 20px;
+}
+.list1 li {
+    font-size: 20px;
 }

@@ -12,8 +12,9 @@
     font-size: 22px;
 }
 .background0 {
-    background: burlywood url(../img/s14.jpg);
+    background: rgb(252, 238, 220);
     background-size: cover;
     height: fit-content;
+    margin: 0;
 }
 
